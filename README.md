@@ -1,7 +1,11 @@
 # MY DOTFILES AND SOFTWARE I USE IN MY CONFIG
 
-## TAKING SCREENSHOTS
+## Screenshots & Wallpaper
 * flameshot
+* nitrogen
+
+## AppImage Launcher
+* Gear Lever
 
 ## Terminal
 * Alacritty
